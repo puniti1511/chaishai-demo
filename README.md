@@ -25,4 +25,6 @@ Start with the video, then skim **PRODUCT-README** for scope and **DECISIONS** f
 
 ## Contact
 
-GitHub: [puniti1511](https://github.com/puniti1511)
+- GitHub: [puniti1511](https://github.com/puniti1511)
+- LinkedIn: [puniti-singla](https://www.linkedin.com/in/puniti-singla-41784717)
+- Email: puniti1511@gmail.com
