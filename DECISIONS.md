@@ -18,7 +18,7 @@ For implementation detail, watch the [demo video](https://github.com/puniti1511/
 
 **Tradeoff:** We give up email-based marketing for now. Push notifications and SMS cover the moments that matter (RSVP updates, waitlist offers, reminders).
 
-**Canada (2026):** Registration adds a **country** choice (US or Canada). Both use **+1** mobile numbers. Canadian users enter a **postal code** (flexible format for MVP); US users keep **5-digit ZIP**. Event addresses use province/state + city pickers based on profile country. **Discover** geocodes home ZIP/postal by country (US or Canada) for distance and radius filters.
+**Canada:** Country choice was added at registration in 2026 — see Decision 13 for full details.
 
 **What we skipped:** Social login would speed up signup but would require extra work to tie social accounts to phone numbers for invites. Not worth it for MVP.
 

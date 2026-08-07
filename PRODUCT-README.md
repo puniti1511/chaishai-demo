@@ -121,10 +121,10 @@ See **[DECISIONS.md](DECISIONS.md)** — 13 documented decisions with reasoning,
 
 ## Status
 
-- **MVP:** Feature-complete for closed beta in 2–3 US metros (+ Canada profiles/Discover)
+- **Beta:** Live with 5 users actively testing across initial metros
 - **CI:** Automated typecheck + lint on every push (private repo)
 - **Security:** Pre-beta review completed; fixes deployed
-- **Next:** Staging APK testing, push notifications on device, App Store prep
+- **Source code:** Private – technical deep-dive available on request in interview
 
 ---
 
